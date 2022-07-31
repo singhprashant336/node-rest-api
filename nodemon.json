@@ -1,0 +1,6 @@
+{
+    "env":{
+        "Mongo_Password": "MyProject",
+        "JWT_KEY":"secret"
+    }
+}
